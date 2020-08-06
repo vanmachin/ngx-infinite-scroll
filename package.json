@@ -1,5 +1,5 @@
 {
-  "name": "ngx-infinite-scroll",
+  "name": "ngx-infinite-scroll-nospy",
   "version": "9.0.0",
   "description": "An infinite scroll directive for Angular",
   "main": "./bundles/ngx-infinite-scroll.umd.js",
